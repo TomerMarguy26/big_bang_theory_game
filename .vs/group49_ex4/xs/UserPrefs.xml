@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example01_Server/ServerIncludesAndDefines.h">
+    <Files>
+      <File FileName="Example01_Server/server_main.c" Line="1" Column="1" />
+      <File FileName="Example01_Server/ServerIncludesAndDefines.h" Line="1" Column="1" />
+      <File FileName="Example01_Server/SocketExampleServer.c" />
+      <File FileName="Example01_Server/SocketExampleServer.h" />
+      <File FileName="Example01_Client/ClientIncludesAndDefines.h" />
+      <File FileName="Example01_Client/client_main.c" />
+      <File FileName="Example01_Client/SocketExampleClient.c" />
+      <File FileName="Example01_Client/SocketExampleClient.h" />
+      <File FileName="Shared/SocketExampleShared.h" />
+      <File FileName="Shared/SocketSendRecvTools.c" />
+      <File FileName="Shared/SocketSendRecvTools.h" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="group49_ex4" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
